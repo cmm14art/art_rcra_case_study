@@ -1,5 +1,7 @@
-*GAMS code of the case study developed by Camilo Mejía-Moncayo for the article:
-*"A Reconfigurable Cellular Remanufacturing Architecture: a multi-objective design approach"
+*GAMS code of the case study developed by Camilo Mejía-Moncayo (camilo.mejia-moncayo.1@ens.etsmtl.ca) for the article:
+*Mejía-Moncayo, C., Kenné, J.-P., & Hof, L. A. (2024). A Reconfigurable Cellular Remanufacturing Architecture: a multi-objective design approach. Journal of Remanufacturing, 1–33. https://doi.org/10.1007/s13243-024-00139-2
+*Please cite this article if you use this file.
+
 
 set   i    workplaces / 1 * 10  /
       j    products / 1 *  10 /
